@@ -1,4 +1,4 @@
-# vladilen
+# Crypto
 
 ## Project setup
 ```
