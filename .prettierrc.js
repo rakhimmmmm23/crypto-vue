@@ -1,0 +1,3 @@
+module.exprots = {
+  trailingComma: false,
+};
